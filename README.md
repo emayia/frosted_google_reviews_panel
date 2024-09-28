@@ -1,4 +1,4 @@
-# Frosted Google Reviews Panel
+# Glassmorphism Google Reviews Panel
 
 ## Description
 
@@ -36,3 +36,7 @@ The improved design introduces a frosted glass background with a subtle blur, ad
 - [Emin A.](https://github.com/emayia): Software Engineering student at École 42 based in Nice, France.
 
 - Webmaster at [elyacouture.com](https://elyacouture.com).
+
+
+### Addendum
+Thanks to [Mathias B.](https://github.com/matubu) for pointing out the right terminology on *glassmorphism*! Much appreciated! :)
