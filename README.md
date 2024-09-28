@@ -4,7 +4,7 @@
 
 This tweak adds a modern frosted glass effect to the Google Reviews module on the homepage of [elyacouture.com](https://elyacouture.com). It also ensures better mobile responsiveness by scaling the module down on smaller screens.
 
-![Frosted Glass Effect Close-Up](assets/frosted_glass-close-up.gif)
+![Frosted Glass Effect Close-Up](assets/glassmorphism-close-up.gif)
 
 ## Features
 
@@ -21,7 +21,7 @@ In the original design, the module lacked visual depth and responsiveness. Witho
 
 ### After
 
-![Frosted Glass Demo](assets/frosted_glass-demo.gif)
+![Frosted Glass Demo](assets/glassmorphism-demo.gif)
 
 The improved design introduces a frosted glass background with a subtle blur, adding depth and modern aesthetic to the UI. The layout is now mobile-optimized, scaling down on smaller screens to improve usability and fit more seamlessly into the mobile viewport. This makes the module visually appealing and helps it blend in better with the main page.
 
