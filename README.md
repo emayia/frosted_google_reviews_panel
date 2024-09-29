@@ -27,8 +27,8 @@ The improved design introduces a frosted glass background with a subtle blur, ad
 
 ## Project Structure
 
-- `frosted_google_reviews-pannel/`
-  - `frosted_google_reviews-pannel.css`: Contains the CSS for the frosted glass effect and mobile optimization.
+- `glassmorphism-google_reviews-panel/`
+  - `glassmorphism-google_reviews-panel.css`: Contains the CSS for the frosted glass effect and mobile optimization.
 
 
 ## Author
